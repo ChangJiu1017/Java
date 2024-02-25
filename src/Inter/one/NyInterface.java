@@ -6,7 +6,7 @@ import Inter.one.interone;
 public class NyInterface {
 
     public static void main(String[] args) {
-        MyInter my =  new interone();s
+        MyInter my =  new interone();
         my.show2();
         my.show4();
 
